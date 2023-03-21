@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luis Carlos, também conhecido como:
+### Olá! Eu sou o Luis Carlos
 
 ![LittleCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleCharles&show_icons=true&theme=e.g)
 
