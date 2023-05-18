@@ -1,18 +1,46 @@
-### Olá! Eu sou o Luis Carlos
+<div>
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/luis-carlos-vieira/">Luis Carlos 😃️</a>
+  </h1>
+  </div>
+<div align="center">
+  <a href="https://github.com/LittleCharles">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LittleCharles&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCharles&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+  
+  <p align="center">
+    Sou Desenvolvedor de Software e Web e gosto muito de compartilhar meu conhecimento e aprendizado!
+  </p>
+  
+  <p align="center">
+    Só me seguir e vir codar comigo, toda contribuição é sempre bem vinda. 😉️
+  </p>
+  
 
-![LittleCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleCharles&show_icons=true&theme=e.g)
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+</div><br>
+<div align="center">
+  <a href="https://www.instagram.com/lc_vieir4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-carlos-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:luis.carlos.vieira@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
 
-## Tecnologias que eu utilizo
+<div align="center">
 
-<div style="display: inline_block"><br/>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div><br/>
+</div>
 
 
